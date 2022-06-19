@@ -1,1 +1,1 @@
-# terrain_texture
+# Heightmap generation
